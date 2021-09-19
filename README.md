@@ -4,7 +4,7 @@
 
 <h4>Featured implemented </h4>
       
-     <<h5>To start the program run command : </h5>
+     <h5>To start the program run command : </h5>
      <h5> Commands :</h5>
        <h5> a : store url </h5>
        <h5> b : get </h5>
